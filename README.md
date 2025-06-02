@@ -1,3 +1,5 @@
+https://github.com/Avudaiappan-14/zomato_BI_Dashboard/blob/main/ZOMATO_BI%20IMAGE.jpg
+
 #  Bangalore Zomato Power BI Dashboard
 
 This project is a Power BI dashboard analyzing restaurant data from Zomato in Bangalore. It gives insights into restaurant types, locations, ratings, cuisines, and cost, helping users understand the food landscape of the city.
