@@ -54,6 +54,6 @@ Feel free to connect or reach out:
 
 - Avudaiappan V
 - [https://www.linkedin.com/in/avudaiappan-v-b01300282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ](#)
-- [Email](VKA140603@GMAIL.COM)
+- [Email : VKA140603@GMAIL.COM]
 
 
