@@ -1,4 +1,7 @@
-https://github.com/Avudaiappan-14/zomato_BI_Dashboard/blob/main/ZOMATO_BI%20IMAGE.jpg
+
+![Zomato_BI_dashboard](https://github.com/Avudaiappan-14/zomato_BI_Dashboard/blob/main/ZOMATO_BI%20IMAGE.jpg)
+
+## Overview
 
 #  Bangalore Zomato Power BI Dashboard
 
